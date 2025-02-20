@@ -10,56 +10,56 @@ FNK0095
    :caption: Welcome
    :glob:
 
-   C/Welcome.rst
+   fnk0095/codes/C/Welcome.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: Preface
    :glob:
    
-   C/Preface.rst
+   fnk0095/codes/C/Preface.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: Projects
    :glob:
 
-   C/0_Getting_Ready_(Important).rst
+   fnk0095/codes/C/0_Getting_Ready_(Important).rst
 
 .. toctree::
    :maxdepth: 1
    :numbered:
    :glob:
 
-   C/1_LED_Blink.rst
-   C/2_Two_LEDs_Blink.rst
-   C/3_LED_Bar_Graph.rst
-   C/4_LED_Blink_Smoothly.rst
-   C/5_Control_LED_with_Push_Button_Switch.rst
-   C/6_Serial.rst
-   C/7_Timer.rst
-   C/8_ADC.rst
-   C/9_RGB_LED.rst
-   C/10_Buzzer.rst
-   C/11_DAC.rst
-   C/12_RTC.rst
-   C/19_Onboard_LED_Matrix_(WiFi_Board).rst
-   C/38_WiFi_Working_Modes_(WiFi_Board).rst
-   C/39_TCP_IP_(WiFi_Board).rst
-   C/40_Control_LED_with_Web_(WiFi_Board).rst
-   C/41_Bluetooth_(WiFi_Board).rst
-   C/42_USB_HID.rst
+   fnk0095/codes/C/1_LED_Blink.rst
+   fnk0095/codes/C/2_Two_LEDs_Blink.rst
+   fnk0095/codes/C/3_LED_Bar_Graph.rst
+   fnk0095/codes/C/4_LED_Blink_Smoothly.rst
+   fnk0095/codes/C/5_Control_LED_with_Push_Button_Switch.rst
+   fnk0095/codes/C/6_Serial.rst
+   fnk0095/codes/C/7_Timer.rst
+   fnk0095/codes/C/8_ADC.rst
+   fnk0095/codes/C/9_RGB_LED.rst
+   fnk0095/codes/C/10_Buzzer.rst
+   fnk0095/codes/C/11_DAC.rst
+   fnk0095/codes/C/12_RTC.rst
+   fnk0095/codes/C/19_Onboard_LED_Matrix_(WiFi_Board).rst
+   fnk0095/codes/C/38_WiFi_Working_Modes_(WiFi_Board).rst
+   fnk0095/codes/C/39_TCP_IP_(WiFi_Board).rst
+   fnk0095/codes/C/40_Control_LED_with_Web_(WiFi_Board).rst
+   fnk0095/codes/C/41_Bluetooth_(WiFi_Board).rst
+   fnk0095/codes/C/42_USB_HID.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: What's next?
    :glob:
 
-   C/What_s_Next.rst
+   fnk0095/codes/C/What_s_Next.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: Appendix
    :glob:
 
-   C/Appendix.rst
+   fnk0095/codes/C/Appendix.rst
